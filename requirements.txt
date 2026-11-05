@@ -1,0 +1,7 @@
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
